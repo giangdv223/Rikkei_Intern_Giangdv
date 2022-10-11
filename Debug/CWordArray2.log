@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\GiangDV\source\repos\CWordArray2\CWordArray2\test.cpp(91,39): warning C4244: 'initializing': conversion from 'INT_PTR' to 'unsigned int', possible loss of data
+C:\Users\GiangDV\source\repos\CWordArray2\CWordArray2\test.cpp(92,31): warning C4244: 'argument': conversion from 'INT_PTR' to 'size_t', possible loss of data
+C:\Users\GiangDV\source\repos\CWordArray2\CWordArray2\test.cpp(100,54): warning C4244: 'argument': conversion from 'INT_PTR' to 'size_t', possible loss of data
+C:\Users\GiangDV\source\repos\CWordArray2\CWordArray2\test.cpp(125,45): warning C4244: 'initializing': conversion from 'INT_PTR' to 'unsigned int', possible loss of data
+C:\Users\GiangDV\source\repos\CWordArray2\CWordArray2\test.cpp(127,37): warning C4244: 'argument': conversion from 'INT_PTR' to 'size_t', possible loss of data
+C:\Users\GiangDV\source\repos\CWordArray2\CWordArray2\test.cpp(128,54): warning C4244: 'argument': conversion from 'INT_PTR' to 'size_t', possible loss of data
+  CWordArray2.vcxproj -> C:\Users\GiangDV\source\repos\CWordArray2\Debug\CWordArray2.exe
